@@ -1,6 +1,7 @@
 # Unity-Console-During-RunTime
 
 This tool is designed to capture all logs, that are being displayed in the Unity Console and display them during the game. Perfect for Multiplayer Games.
+- Technologies Used: Unity, C#
 - You can download the Unity Package and add it into your Project on Itch.io: (https://itchiovp.itch.io/unity-console-during-run-time-tool)
 
 ## How to use:
