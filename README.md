@@ -13,6 +13,6 @@ This tool is designed to capture all logs, that are being displayed in the Unity
 2. Open the Project in Unity Hub using Unity Version 2022.3.8f1
 
 ## Screenshots
-![Screenshots](https://img.itch.zone/aW1hZ2UvMjU1MjY5Ni8xNTE4OTY2OS5wbmc=/original/69H8O9.png)
-![Screenshots](https://img.itch.zone/aW1hZ2UvMjU1MjY5Ni8xNTE4OTY2OC5wbmc=/original/2BSi3H.png)
-![Screenshots](https://img.itch.zone/aW1hZ2UvMjU1MjY5Ni8xNTE4OTY3MC5wbmc=/original/bvhFA%2B.png)
+![Screenshots](https://img.itch.zone/aW1hZ2UvMjU1MjY5Ni8xNzE0NzgwNi5wbmc=/original/Fbyri%2F.png)
+![Screenshots](https://img.itch.zone/aW1hZ2UvMjU1MjY5Ni8xNzE0NzgwOC5wbmc=/original/uzsHKg.png)
+![Screenshots](https://img.itch.zone/aW1hZ2UvMjU1MjY5Ni8xNzE0NzgxNS5wbmc=/original/niXX%2Fu.png)
